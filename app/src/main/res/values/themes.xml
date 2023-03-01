@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NCKH" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/background3</item>
+        <item name="colorPrimaryVariant">@color/background3</item>
+        <item name="colorOnPrimary">@color/background3</item>
+        <item name="colorAccent">@color/trans_background</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/background3</item>
+        <item name="colorSecondaryVariant">@color/trans_background</item>
+        <item name="colorOnSecondary">@color/background3</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="NumberPicker">
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

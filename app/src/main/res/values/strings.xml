@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FStack</string>
+    <string name="loading">Loading...</string>
+    <string name="version_app">Version </string>
+    <string name="taikhoan">Tài Khoản</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="Dangnhap">Đăng Nhập</string>
+    <string name="fstack">FStack</string>
+    <string name="home">Trang chủ</string>
+    <string name="user">Tài Khoản</string>
+    <string name="chon_phong_muon">Chọn phòng mong muốn</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+    <string name="Luu">Lưu</string>
+    <string name="Thoat">Thoát</string>
+    <string name="title_activity_update">Activity_Update</string>
+    <string name="quenmatkhau"><u>Quên mật khẩu</u></string>
+
+</resources>

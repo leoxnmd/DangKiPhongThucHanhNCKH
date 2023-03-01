@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471288799707",
+    "project_id": "notification-nckh",
+    "storage_bucket": "notification-nckh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471288799707:android:2808ef5af9d894d33787fe",
+        "android_client_info": {
+          "package_name": "com.leo.nckh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471288799707-7v514kgktjhvh52pj1mhk8aubjg5er9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYGVLBQ_D0QcaS-hXXnI4uU28z6O_9fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471288799707-7v514kgktjhvh52pj1mhk8aubjg5er9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
